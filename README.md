@@ -8,4 +8,4 @@ I'm an Information Technology student passionate about software development, UI/
 
 ## 🎨 Figma Projects
 Here are some examples of my UI/UX design projects created in Figma.
-LittleStep - https://www.figma.com/design/gEyK2Hyw8EF2QhoR9FeIac/LittleStep?node-id=0-1&t=nmBazI37yt39kfCf-1
+- https://www.figma.com/design/gEyK2Hyw8EF2QhoR9FeIac/LittleStep?node-id=0-1&t=nmBazI37yt39kfCf-1
