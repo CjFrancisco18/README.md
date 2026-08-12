@@ -7,7 +7,7 @@ I'm an Information Technology student passionate about software development, UI/
 - 📚 Always learning new technologies
 - ## 🛠️ Tech Stack
 
-**Tools**
+### 🛠️ Tools
 - Figma
 - GitHub
 - Visual Studio Code
